@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Audio/music.mp3","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Audio/music.xnb","SongProcessor","SongContent",7392389,123,5.260007
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Audio/sound-1.mp3","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Audio/sound-1.xnb","SoundEffectProcessor","SoundEffectContent",63529,175209,0.154513
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Audio/sound-2.mp3","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Audio/sound-2.xnb","SoundEffectProcessor","SoundEffectContent",10605,48489,0.1683977
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Audio/sound-3.mp3","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Audio/sound-3.xnb","SoundEffectProcessor","SoundEffectContent",6765,30057,0.1417711
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Audio/sound-4.mp3","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Audio/sound-4.xnb","SoundEffectProcessor","SoundEffectContent",45139,248937,0.1609156
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Fonts/menu-select.spritefont","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Fonts/menu-select.xnb","FontDescriptionProcessor","SpriteFontContent",2176,136223,0.1088046
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Fonts/menu.spritefont","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Fonts/menu.xnb","FontDescriptionProcessor","SpriteFontContent",2084,136223,0.0235723
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Images/background.jpg","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Images/background.xnb","TextureProcessor","Texture2DContent",403440,4367445,0.1259973
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Images/ball-white.png","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Images/ball-white.xnb","TextureProcessor","Texture2DContent",219,4181,0.0023592
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Images/block.png","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Images/block.xnb","TextureProcessor","Texture2DContent",120,2133,0.0026718
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Images/lives.png","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Images/lives.xnb","TextureProcessor","Texture2DContent",17118,715093,0.0160164
+"C:/Users/rettr/cs5410/Breakout/Breakout/Content/Images/paddle.png","C:/Users/rettr/cs5410/Breakout/Breakout/Content/bin/DesktopGL/Content/Images/paddle.xnb","TextureProcessor","Texture2DContent",6599,41853,0.0033223
